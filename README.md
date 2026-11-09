@@ -37,12 +37,12 @@ Most of this lives in private client repositories, so each project links to a fu
 
 | Project | What it does |
 |---|---|
-| [**RAG engine for websites**](https://github.com/ibrahimGoumrane/DataProject) | Scrapes a whole site (JS rendering), ranks with hybrid semantic + TF-IDF on FAISS, answers with an LLM, and exposes an MCP server. |
+| [**RAG engine for websites**](https://github.com/ibrahimGoumrane/website-rag-engine) | Scrapes a whole site (JS rendering), ranks with hybrid semantic + TF-IDF on FAISS, answers with an LLM, and exposes an MCP server. |
 | [**Docling PDF extraction for RAG**](https://github.com/ibrahimGoumrane/llamaparse-vs-docling) | Complex PDFs to Markdown/JSON with tables, figures and vision-model descriptions, chunked for retrieval. |
-| [**LangGraph agent**](https://github.com/ibrahimGoumrane/langraph) | Retrieval tools, conditional routing, memory, retries, human-in-the-loop approval and loop guards. |
-| [**AI technical recruiter**](https://github.com/ibrahimGoumrane/langraphLearning) | Structured LLM extraction from CVs and job descriptions, with explainable, evidence-based scoring. |
+| [**LangGraph agent**](https://github.com/ibrahimGoumrane/langgraph-agent) | Retrieval tools, conditional routing, memory, retries, human-in-the-loop approval and loop guards. |
+| [**AI technical recruiter**](https://github.com/ibrahimGoumrane/ai-recruiter-pipeline) | Structured LLM extraction from CVs and job descriptions, with explainable, evidence-based scoring. |
 | [**Web sales analytics pipeline**](https://github.com/ibrahimGoumrane/web_sales_analytic_pipeline) | Daily Airflow ETL of 1,000+ products into PostgreSQL, a Streamlit dashboard, and CI. |
-| [**Business-card reader**](https://github.com/ibrahimGoumrane/CodeBarDetector) | OCR + LLM field extraction + YOLO QR-code fallback, exported to CSV. |
+| [**Business-card reader**](https://github.com/ibrahimGoumrane/business-card-reader) | OCR + LLM field extraction + YOLO QR-code fallback, exported to CSV. |
 
 ---
 
